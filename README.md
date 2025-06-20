@@ -6,8 +6,19 @@ YOLOv8 기반 세면대 탐지 + U-Net 기반 오염 영역 segmentation → 오
 ---
 
 ## 🔗 링크
-- [Google Drive (Full Colab notebook with results)](드라이브 링크)
-- [Run in Colab (Open Notebook)](Colab 링크)
+- [🔗 [세면대 오염도 분석 시스템 발표자료 (PDF)]](https://drive.google.com/file/d/1zF4lTL737N3PWT7S07iI0-Fa-ogvDBso/view?usp=sharing)
+
+- 📁 [GitHub Repository (Code only, with README)](https://github.com/thdcodud01/sink_pollution_analysis)
+
+- 📄 [[Google Drive (Full Colab notebook with results)]](https://drive.google.com/file/d/1vsKbzHy0YjtMzyYBB9tAAsaaDt0Onfuu/view?usp=drive_link)
+
+📦 Data Files
+
+- 🔗 [[sink_labels.zip 다운로드](Drive 링크)](https://drive.google.com/drive/folders/1LrKFxGr-WzXFFVbl8SfDK6wlSP6-lpsc?usp=sharing)
+
+- 🔗 [[SmartSan_Project.zip 다운로드](Drive 링크)](https://drive.google.com/drive/folders/11dDjXfM9aNp2fxM4XN-ADMScQvHw3J-2?usp=sharing)
+
+- 🚀 [Run in Colab (Interactive Notebook)](https://colab.research.google.com/github/thdcodud01/sink_pollution_analysis/blob/main/cv_finalProject(end).ipynb)
 
 ---
 
