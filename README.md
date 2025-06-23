@@ -31,7 +31,7 @@ YOLOv8 기반 세면대 탐지 + U-Net 기반 오염 영역 segmentation → 오
 - `SmartSan_Project.zip` → Google Drive에 업로드 후 `/content/drive/MyDrive/SmartSan_Project/` 경로에 압축 해제
 
 ### 2️⃣ Colab 노트북 열기
-- [Run in Colab (Open Notebook)](Colab 링크)
+- [Run in Colab (Open Notebook) (https://colab.google/)](Colab 링크)
 
 ### 3️⃣ 실행
 - Colab 노트북 첫 번째 Cell에서 Google Drive mount 코드 실행
